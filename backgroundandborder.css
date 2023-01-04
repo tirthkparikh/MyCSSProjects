@@ -1,0 +1,12 @@
+h1{
+  background-color: rgb(255,80,80);
+ border : 2px dashed blue;
+}
+body{
+  background: url(https://tse3.mm.bing.net/th?id=OIP.IEVTUkXgbg3ihnAJ1PFrxAHaEo&pid=Api&P=0);
+  background-repeat: no-repeat;
+  /*background-position: center;*/
+  background-size: cover;
+
+
+}
